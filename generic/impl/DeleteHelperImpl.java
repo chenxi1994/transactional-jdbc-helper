@@ -1,6 +1,6 @@
-package com.msxf.psp.dal.generic.impl;
+package com.dal.generic.impl;
 
-import com.msxf.psp.dal.generic.DeleteHelper;
+import com.dal.generic.DeleteHelper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.jdbc.datasource.DataSourceUtils;

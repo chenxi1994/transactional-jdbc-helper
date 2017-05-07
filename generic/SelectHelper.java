@@ -1,4 +1,4 @@
-package com.msxf.psp.dal.generic;
+package com.dal.generic;
 
 import java.util.List;
 

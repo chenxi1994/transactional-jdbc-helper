@@ -1,4 +1,4 @@
-package com.msxf.psp.dal.generic;
+package com.dal.generic;
 
 import java.sql.SQLException;
 import java.util.List;
